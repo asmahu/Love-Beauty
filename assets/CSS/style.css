@@ -9,8 +9,6 @@ body {
     box-shadow: 0px 5px 5px 0px gray; 
 } 
 
- 
-
 .container { 
     border: 1px solid gray; 
     background-color: #d9d9d9; 
@@ -135,9 +133,7 @@ body {
 .Icons a i { 
     margin: 0 5px 0 5px; 
 } 
- 
 
- 
 .container articles { 
     padding: 0 10px 0 10px; 
     display: grid; 
@@ -152,9 +148,8 @@ body {
 } 
 
 }
-/* CSS Grid: (from 500px) */ 
 
- 
+/* CSS Grid: (from 500px) */ 
 @media (min-width: 501px) { 
  
  
@@ -180,8 +175,6 @@ body {
 }
  
 /* CSS Grid: (from 500px to 800px) */ 
- 
-
 @media screen and (min-width: 501px) and (max-width: 801px) { 
     .main-content { 
         padding: 0 10px 0 10px; 
@@ -200,11 +193,7 @@ body {
 
 } 
 
-
-
 /*products gallery*/
-
-
 .gallery {
    overflow: hidden;
    margin: 10px;
